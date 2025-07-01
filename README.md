@@ -3,13 +3,11 @@
 Welcome to the **Daily Machine Learning Practice** repository!  
 This repository contains hands-on implementations of core ML algorithms from scratch and with libraries like scikit-learn, accompanied by small, practical projects using public datasets.
 
+---
 ## 📌 Goal
 To build a strong foundation in Machine Learning by implementing algorithms manually and applying them to real-world datasets.
 
 ---
-
----
-
 ## 📚 Topics Covered
 
 ### ✅ Supervised Learning
