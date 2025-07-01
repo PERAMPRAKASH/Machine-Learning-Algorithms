@@ -1,4 +1,49 @@
-# 🤖 Machine Learning Projects – Algorithm by Algorithm 📚
+# 🧠 Daily Machine Learning Practice Projects
 
-Welcome to my repository of **Machine Learning practice projects**, each focusing on a core ML algorithm. This repo is built to demonstrate implementation, training, evaluation, and understanding of each algorithm using real-world datasets. 🌍
+Welcome to the **Daily Machine Learning Practice** repository!  
+This repository contains hands-on implementations of core ML algorithms from scratch and with libraries like scikit-learn, accompanied by small, practical projects using public datasets.
+
+## 📌 Goal
+To build a strong foundation in Machine Learning by implementing algorithms manually and applying them to real-world datasets.
+
+---
+
+---
+
+## 📚 Topics Covered
+
+### ✅ Supervised Learning
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- K-Nearest Neighbors (KNN)
+- Support Vector Machines (SVM)
+- Naive Bayes
+
+### ✅ Unsupervised Learning
+- K-Means Clustering
+- Hierarchical Clustering
+- Principal Component Analysis (PCA)
+
+### ✅ Ensemble Techniques
+- Random Forest
+- Gradient Boosting
+- AdaBoost
+
+### ✅ Neural Networks
+- Perceptron Algorithm
+- Multilayer Feedforward Network
+- Backpropagation
+
+### ✅ Reinforcement Learning
+- Q-Learning (Basic GridWorld)
+
+---
+
+## Clone the repo:
+```bash
+git clone https://github.com/PERAMPRAKASH/ml-daily-practice.git
+
+
+
 
