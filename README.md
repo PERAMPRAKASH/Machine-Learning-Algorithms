@@ -40,7 +40,7 @@ To build a strong foundation in Machine Learning by implementing algorithms manu
 
 ## Clone the repo:
 ```bash
-git clone https://github.com/PERAMPRAKASH/ml-daily-practice.git
+git clone https://github.com/PERAMPRAKASH/Machine-Learning-Algorithms.git
 
 
 
